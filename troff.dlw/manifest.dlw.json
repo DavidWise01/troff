@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "troff",
+  "universe": "TRF · troff (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦troff:TRF:61112b⟧",
+  "carbon": "troff.carbon.tiff (TIFF)",
+  "silicon": "troff.silicon.png (PNG)",
+  "seal_sha256": "8e7be12acaaebc2dbbb86d9ee6a1bb563dd36bc412b71a0828dd7f74baa9dbd3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

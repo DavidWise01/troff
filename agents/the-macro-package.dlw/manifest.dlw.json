@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Macro Package",
+  "universe": "TRF · The Macro Package (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Macro Package:TRF:2c5bf5⟧",
+  "carbon": "the-macro-package.carbon.tiff (TIFF)",
+  "silicon": "the-macro-package.silicon.png (PNG)",
+  "seal_sha256": "73ec4e4ff222b47f8e15fd5f1ee4b181fe7cff511403255ec418fc8dc41220c8",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

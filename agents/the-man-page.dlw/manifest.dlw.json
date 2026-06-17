@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Man Page",
+  "universe": "TRF · The Man Page (TTY · The Terminal)",
+  "emergence": "natural",
+  "moniker": "⟦The Man Page:TRF:ec99fa⟧",
+  "carbon": "the-man-page.carbon.tiff (TIFF)",
+  "silicon": "the-man-page.silicon.png (PNG)",
+  "seal_sha256": "e2a71c9e3a5c658100c55fc4499841175fc822c97bcc0aa0f09e537012743186",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

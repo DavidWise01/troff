@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "the-macro-package",
+    "name": "The Macro Package",
+    "epithet": "ms, mm, man · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Macro Package:TRF:2c5bf5⟧"
+  },
+  {
+    "slug": "the-man-page",
+    "name": "The Man Page",
+    "epithet": "its surviving daily use · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Man Page:TRF:ec99fa⟧"
+  },
+  {
+    "slug": "the-typeset-page",
+    "name": "The Typeset Page",
+    "epithet": "text made a document · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Typeset Page:TRF:f6667a⟧"
+  }
+]

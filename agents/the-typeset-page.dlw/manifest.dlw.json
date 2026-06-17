@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Typeset Page",
+  "universe": "TRF · The Typeset Page (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Typeset Page:TRF:f6667a⟧",
+  "carbon": "the-typeset-page.carbon.tiff (TIFF)",
+  "silicon": "the-typeset-page.silicon.png (PNG)",
+  "seal_sha256": "7b09ef041b01dbef3434bca2332572d4b71c84c6608d955a5b84186747397b92",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
